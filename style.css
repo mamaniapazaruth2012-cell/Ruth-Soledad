@@ -1,6 +1,6 @@
 :root{
   --bg:#f3f7fa; --card:#ffffff; --ink:#14232f; --muted:#587084; --line:#dbe5ec;
-  --hero:#0d2231; --hero-ink:#f2f7fa; --accent:#1b78a8; --accent-soft:#e2f1f8; --on-accent:#fff;
+  --hero:#2b8fd8; --hero-ink:#f2f7fa; --accent:#1b78a8; --accent-soft:#e2f1f8; --on-accent:#fff;
   color-scheme:light;
 }
 @media (prefers-color-scheme:dark){

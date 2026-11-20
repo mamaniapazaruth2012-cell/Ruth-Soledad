@@ -1,3 +1,8 @@
+.skills{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:10px}
+.skills li{background:var(--pale);border:1px solid var(--line);color:var(--navy);padding:8px 16px;border-radius:999px;font-weight:600;font-size:.95rem}
+.proyecto{background:var(--pale);border-radius:12px;padding:16px;margin-bottom:20px}
+.proyecto img{width:100%;height:auto;border-radius:10px;display:block;margin-bottom:12px}
+.proyecto h4{font-family:var(--serif);color:var(--navy);font-size:1.2rem;margin:0 0 8px}
 :root{
   --bg:#f3f7fa; --card:#ffffff; --ink:#14232f; --muted:#587084; --line:#dbe5ec;
   --hero:#2b8fd8; --hero-ink:#f2f7fa; --accent:#1b78a8; --accent-soft:#e2f1f8; --on-accent:#fff;
